@@ -1,0 +1,3 @@
+﻿cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+  Accounts.cpp
+  Connect.vcxproj -> C:\Users\x49ha\source\repos\Connect\x64\Debug\Connect.exe
